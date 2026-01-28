@@ -28,7 +28,8 @@ https://dev.mysql.com/downloads/connector/j/
 ### 2) Configure Database Credentials
 This project does not hold credentials so no secrets are stored in the code.
 
-Look within each java file except main for:
+Look within each java file except main for
+
 //MUST UPDATE BELOW WITH YOUR CLASS LINK AND PASSWORD////////////////////
       String url = "CLASS_LINK_HERE phpMyAdmin_SQL";
       url += "PERSONAL_PASSWORD_FROM_CLASS";
